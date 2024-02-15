@@ -1,0 +1,5 @@
+*.terraform
+terraform.tfstate*
+guia*
+.terraform.lock.hcl
+key_gcp.json
